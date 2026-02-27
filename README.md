@@ -1,4 +1,4 @@
-[Economy_COPD.sql](https://github.com/user-attachments/files/25616248/Economy_COPD.sql)
+
 
 
 
